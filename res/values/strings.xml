@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">hatirlatici</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_birthday">Birthday</string>
+    <string name="title_activity_ayarlar">Ayarlar</string>
+
+</resources>
